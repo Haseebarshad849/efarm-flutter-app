@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173948805469",
+    "project_id": "efarm-flutter",
+    "storage_bucket": "efarm-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173948805469:android:8240cb80f984d74b0e88b4",
+        "android_client_info": {
+          "package_name": "com.ithobbies.haseeb.efarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173948805469-ommmi4st1aqapfku8hieui1icoui49vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPW3siDJhu1p31VhhrCgZWLmpwsXCwsjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173948805469-ommmi4st1aqapfku8hieui1icoui49vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
